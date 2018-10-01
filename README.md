@@ -24,7 +24,3 @@ b.	Using the strategy devised from the structure.htm file, structure each of the
 a.	Applies to: all pages
              
 b.	As you are structuring pages, add ARIA roles to elements when appropriate. 
-					
-
-        When you're finished, open up the same files from the "finished_files" directory and compare your results to the finished files. 
-        Make sure they match and that the structure is consistent throughout.
